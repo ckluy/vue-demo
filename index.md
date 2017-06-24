@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+==========================
+5.相关websites
+==========================
 
-You can use the [editor on GitHub](https://github.com/ckluy/vue-demo/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+使用vuejs框架开发，需要关注如下：
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+1,vuejs官网：
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+	https://cn.vuejs.org/
 
-```markdown
-Syntax highlighted code block
+2,vue-router官方文档：
 
-# Header 1
-## Header 2
-### Header 3
+	https://router.vuejs.org/zh-cn/
 
-- Bulleted
-- List
+3,vue-resource文档：
 
-1. Numbered
-2. List
+	https://github.com/pagekit/vue-resource
 
-**Bold** and _Italic_ and `Code` text
+4,ECMAScript6入门语法文档：
 
-[Link](url) and ![Image](src)
-```
+	http://es6.ruanyifeng.com/#docs/intro
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+5,ESLint中文文档：
 
-### Jekyll Themes
+	http://eslint.cn/
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ckluy/vue-demo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+6,babel官方网站：
 
-### Support or Contact
+	http://babeljs.io/
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+7,webpack中文网站：
+
+	https://doc.webpack-china.org/
+	
